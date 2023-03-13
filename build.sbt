@@ -4,7 +4,7 @@ ThisBuild / scalaVersion := "2.12.10"
 
 lazy val root = (project in file("."))
   .settings(
-    name := "untitled"
+    name := "Spark_Dataframes"
   )
 
 //libraryDependencies += "org.apache.spark" %% "spark-core" % "3.0.0-preview2"
